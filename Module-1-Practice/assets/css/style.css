@@ -1,0 +1,18 @@
+.header {
+    background-color: pink;
+  }
+  
+  #image {
+    color: darkslateblue;
+    background-color: white;
+  }
+  
+  #paragraph {
+    color: darkslateblue;
+    background-color: darkorange;
+  }
+  
+  #list {
+      color: white;
+      background-color: darkslateblue;
+  }
